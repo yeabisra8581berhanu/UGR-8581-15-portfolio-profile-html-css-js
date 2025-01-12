@@ -1,0 +1,49 @@
+.YEABISRA{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Showcard Gothic', sans-serif;
+   
+    
+    
+   }.details{
+    color: white;
+    font-weight: bolder;
+
+   }.info{
+    color: rgb(254, 254, 254);
+    font-size: 15px;
+    font-family: Bauhaus 93;
+   }.cv{
+    font-family: 'Showcard Gothic', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    color: #ffffff; 
+
+
+   }.ids{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Showcard Gothic', sans-serif;
+    padding-top: 100px;
+    height: 10vh;
+   
+   
+    
+    
+  
+    text-align: center;
+    
+
+   }.mini-skills-font{
+    color: rgb(253, 251, 251);
+    font-size: 10px;
+    font-weight: 900;
+    margin-left: 10px;
+  
+            width: 80px;
+   }.adv-info{
+    font-size: larger;
+    color: aliceblue;
+   }
